@@ -15,7 +15,7 @@ Each chef will have their own personality and specialty, and they will respond t
 # Usage
 ```python
 python -r install requirements.txt
-python chef-gpt.py
+python main.py
 ```
 You must choose the chef that you want to use.
 ```python
